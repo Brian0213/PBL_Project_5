@@ -2,7 +2,7 @@
 
 **Preparing prerequisites**
 
-- Create a new EC2 Instance of t2.nano family with Linix Server 20.04 LTS (HVM) image.
+- Create a new EC2 Instance of t2.nano family with Linux Server 20.04 LTS (HVM) image.
 
 You have been learning about Linux for some time, and it is time to start getting a feel of how to automate some work using Shell Scripts.
 
@@ -20,7 +20,7 @@ Create the project folder called Shell:
 
 ![Cd Shell Directory](./image/cd-shell-output.PNG)
 
-- Create a csv file name names.csv
+- Create a csv file name names.csv:
 
 `touch names.csv`
 
@@ -111,7 +111,7 @@ In your current home directory change directo .ssh folder:
 
 `chmod 700 .ssh`
 
--  Use the touch command to create the authorized_keys file in the .ssh directory:
+- Use the touch command to create the authorized_keys file in the .ssh directory:
 
 `touch .ssh/authorized_keys`
 
@@ -129,14 +129,10 @@ N.B.  For most Linux command line interfaces, the Ctrl+Shift+V key combination p
 
 - Press and hold Ctrl+d to exit cat and return to the command line session prompt:
 
--  Run the id command from the instance's command line to view the user and group information created for the new_user account:
+- Run the id command from the instance's command line to view the user and group information created for the new_user account:
 
 `id`
 
 The id command returns information similar to the following:
 
 ![Onboard Output](./image/onboard-success-output.PNG)
-
-
-
-
