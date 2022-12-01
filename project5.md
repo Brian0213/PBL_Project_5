@@ -71,7 +71,7 @@ In your current home directory change directo .ssh folder:
 
 `cd .ssh`
 
-![Cd .ssh](./image/cd.ssh-output.PNG)
+![Cd .ssh](./image/cd-.ssh-output.PNG)
 
 - create a file for the public key:
 
