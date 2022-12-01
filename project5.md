@@ -1,6 +1,6 @@
-## Documentation for Project 5: AUX PROJECT 1: SHELL SCRIPTING
+# Documentation for Project 5: AUX PROJECT 1: SHELL SCRIPTING
 
-**Preparing prerequisites**
+## Preparing prerequisites
 
 - Create a new EC2 Instance of t2.nano family with Linux Server 20.04 LTS (HVM) image.
 
